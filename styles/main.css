@@ -1,16 +1,9 @@
-/* .body {
+.nav {
+  height: 100vh;
+  background-color: aqua;
+}
+.row {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-} */
-.header {
-  height: 100vh;
-  background-color: aquamarine;
 }
-/* .pepino {
-  background-color: blue;
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-} */
